@@ -1,6 +1,6 @@
 # Dark Web Monitoring and Threat Intelligence System
 
-Final-year B.Tech cybersecurity project: crawl .onion sites over Tor, detect data leaks and credential exposure, store findings locally, and generate reports for academic evaluation and viva.
+Cybersecurity project: crawl .onion sites over Tor, detect data leaks and credential exposure, store findings locally, and generate reports for academic evaluation and viva.
 
 ---
 
